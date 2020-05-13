@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class RotateMe : MonoBehaviour
+public class RotateMeTest : MonoBehaviour
 {
     public float angularVelocity = 10;
     void Update()
