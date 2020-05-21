@@ -7,10 +7,5 @@
     "license": "MIT",
     "dependencies": {
         "com.coffee.packageb": "https://github.com/justsoso666/UPMTest.git#1.0.0.b"
-     },
-
-     "repository": {
-        "type": "git",
-        "url": "https://github.com/justsoso666/UPMTest.git"
-      }
+     }
 }

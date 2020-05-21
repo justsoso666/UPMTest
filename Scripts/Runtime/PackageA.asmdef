@@ -1,6 +1,8 @@
 {
     "name": "PackageA",
-    "references": [],
+    "references": [
+        "GUID:13d25a477873f47628f3e0b8f345913c"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
