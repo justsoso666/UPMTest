@@ -6,11 +6,11 @@
     "unity": "2018.3",
     "license": "MIT",
     "dependencies": {
-        "com.coffee.packageb": "1.0.0"
+        "com.coffee.packageb": "git+https://github.com/justsoso666/UPMTest.git#1.0.0.b"
      },
 
      "repository": {
         "type": "git",
-        "url": "https://github.com/justsoso666/UPMTest.git#1.0.0.b"
+        "url": "https://github.com/justsoso666/UPMTest.git"
       }
 }
