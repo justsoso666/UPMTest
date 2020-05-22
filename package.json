@@ -6,6 +6,6 @@
     "unity": "2018.3",
     "license": "MIT",
     "dependencies": {
-        "com.coffee.packageb": "git+https://github.com/justsoso666/UPMTest.git#1.0.0-package-b"
+        "com.coffee.packageb": "https://github.com/justsoso666/UPMTest.git#1.0.0"
      }
 }
